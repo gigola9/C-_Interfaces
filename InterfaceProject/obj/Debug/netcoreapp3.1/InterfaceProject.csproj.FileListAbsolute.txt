@@ -1,0 +1,14 @@
+C:\Users\GAsanidze\source\repos\InterfaceProject\InterfaceProject\bin\Debug\netcoreapp3.1\InterfaceProject.exe
+C:\Users\GAsanidze\source\repos\InterfaceProject\InterfaceProject\bin\Debug\netcoreapp3.1\InterfaceProject.deps.json
+C:\Users\GAsanidze\source\repos\InterfaceProject\InterfaceProject\bin\Debug\netcoreapp3.1\InterfaceProject.runtimeconfig.json
+C:\Users\GAsanidze\source\repos\InterfaceProject\InterfaceProject\bin\Debug\netcoreapp3.1\InterfaceProject.runtimeconfig.dev.json
+C:\Users\GAsanidze\source\repos\InterfaceProject\InterfaceProject\bin\Debug\netcoreapp3.1\InterfaceProject.dll
+C:\Users\GAsanidze\source\repos\InterfaceProject\InterfaceProject\bin\Debug\netcoreapp3.1\InterfaceProject.pdb
+C:\Users\GAsanidze\source\repos\InterfaceProject\InterfaceProject\obj\Debug\netcoreapp3.1\InterfaceProject.csproj.AssemblyReference.cache
+C:\Users\GAsanidze\source\repos\InterfaceProject\InterfaceProject\obj\Debug\netcoreapp3.1\InterfaceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAsanidze\source\repos\InterfaceProject\InterfaceProject\obj\Debug\netcoreapp3.1\InterfaceProject.AssemblyInfoInputs.cache
+C:\Users\GAsanidze\source\repos\InterfaceProject\InterfaceProject\obj\Debug\netcoreapp3.1\InterfaceProject.AssemblyInfo.cs
+C:\Users\GAsanidze\source\repos\InterfaceProject\InterfaceProject\obj\Debug\netcoreapp3.1\InterfaceProject.csproj.CoreCompileInputs.cache
+C:\Users\GAsanidze\source\repos\InterfaceProject\InterfaceProject\obj\Debug\netcoreapp3.1\InterfaceProject.dll
+C:\Users\GAsanidze\source\repos\InterfaceProject\InterfaceProject\obj\Debug\netcoreapp3.1\InterfaceProject.pdb
+C:\Users\GAsanidze\source\repos\InterfaceProject\InterfaceProject\obj\Debug\netcoreapp3.1\InterfaceProject.genruntimeconfig.cache
