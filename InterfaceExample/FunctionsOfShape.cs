@@ -7,5 +7,6 @@ namespace InterfaceExample
     public interface FunctionsOfShape
     {
         double perimeter(); // ფუნქცია პერიმეტრისთვის
+        double diagonal();
     }
 }

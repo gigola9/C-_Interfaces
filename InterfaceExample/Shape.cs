@@ -8,5 +8,6 @@ namespace InterfaceExample
     {
         double ResultOfPeriemter { get; set; }
         double ResultOfArea { get; set; }
+        double diagonal();
     }
 }

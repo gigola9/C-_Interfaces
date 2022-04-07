@@ -17,6 +17,16 @@ namespace InterfaceExample.Shapes
         public double ResultOfPeriemter { get; set; }
         public double ResultOfArea { get; set; }
 
+        public double diagonal()
+        {
+            return Math.Sqrt(2 * a * a);
+        }
+
+        double FunctionsOfShape.diagonal()
+        {
+            return Math.Sqrt(2 * a * a);
+        }
+
         public double perimeter()
         {
             ResultOfPeriemter = a * 4;
